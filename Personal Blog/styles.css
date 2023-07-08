@@ -1,0 +1,93 @@
+* {
+    font-family: Arial;
+}
+body {
+    background-image: url("images/Light-Blue-HD-Backgrounds-Free-Download.jpg");
+}
+h1 {
+    text-align: center;
+    background: lightblue;
+    height: 50px;
+    padding: 30px;
+    width: 80%;
+    margin-left: 9%;
+}
+.left {
+    width:63%;
+    float: left;
+    position: relative;
+    margin-left: 9%;
+}
+
+.text {
+    padding: 20px;
+    padding-left: 40px;
+    background-color: lightblue;
+    margin-bottom: 15px;
+}
+.img {
+    width:70%;
+    display: flex;
+    justify-content: center;
+    margin-left: 15%;
+    border-radius: 5%;
+}
+.right {
+    float: right;
+    width: 24%;
+    margin-right: 1%;
+}
+.about {
+    margin-right: 25%;
+    padding: 10px;
+    background-color: lightblue;
+}
+.about h3 {
+    text-align: center;
+}
+#schloss {
+    width:70%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 15%;
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover {
+    color: rebeccapurple;
+}
+#mail, #fb, #insta {
+    width: 25px;
+}
+#cont {
+    list-style: none;
+}
+#cont li {
+    float: left;
+    padding: 15px;
+}
+#links {
+    height: 180px;
+}
+p {
+    padding-left: 15px;
+}
+#hipodrome {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 13%;
+}
+#bazaar {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 13%;
+}
